@@ -1,5 +1,5 @@
 <template>
-    
+   <p>burguer banner</p> 
 </template>
 
 <script>
