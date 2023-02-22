@@ -1,5 +1,5 @@
 <template>
-   <p>burguer banner</p> 
+   <p>burger banner</p> 
 </template>
 
 <script>
