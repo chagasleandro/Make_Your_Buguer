@@ -1,13 +1,13 @@
 <template>
-  <p>banner</p>
+  <Banner />
   <div class="main-container">
-    <h1>Monte o seu burguer</h1>
+    <h1>Monte o seu burger:</h1>
     <p>formulário</p>
   </div>
 </template>
 
 <script>
-import Banner from '../components/banner.vue'
+import Banner from '../components/Banner.vue';
 
 export default {
   name: "Home",
