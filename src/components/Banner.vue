@@ -15,9 +15,17 @@ export default {
       background-image: url('~@/assets/burger.jpg') !important;
       background-position: 0;
       background-size: cover;
-      height: 500px;
+      height: 300px;
       display: flex;
       align-items: center;
       justify-content: flex-start;
    }
+
+   #main-banner h1 {
+      color: #FFF;
+      text-align: center;
+      font-size: 35px;
+      background-color: #222;
+   }
+
 </style>
