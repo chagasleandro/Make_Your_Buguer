@@ -82,7 +82,13 @@ export default {
 
             const res = await req.json();
 
-            console.log(res);
+            // colocar uma msg de sistema
+
+            //limpar os campos
+            this.nome =  "";
+            this.carne = "";
+            this.pao = "";
+            this.opcionais = "";
         }
     }, 
     mounted() {
