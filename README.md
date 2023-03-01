@@ -1,6 +1,6 @@
 # make1-your-buguer
 <p align="center">
-  <a href="https://portfolio-my-omega.vercel.app/">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technology">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-back-end">Back-End</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-installation">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -148,16 +148,19 @@ A Vue Project
 
 ```
 yarn install
+npm install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn run serve
+npm run serve
 ```
 
 ### Compiles and minifies for production
 ```
 yarn build
+npm build
 ```
 
 ### Customize configuration
